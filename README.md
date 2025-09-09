@@ -95,7 +95,7 @@ if __name__ == "__main__":
 <h3>OUTPUT:</h3>
 <img width="903" height="174" alt="image" src="https://github.com/user-attachments/assets/81845833-46ba-4224-a333-716a7d4f1de5" />
 
-<h3>RESULT:</h3>:
+<h3>RESULT:</h3>
     Hence, the solution for the given AI problem is found.
 
 ~~~
