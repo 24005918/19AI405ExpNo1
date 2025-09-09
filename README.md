@@ -41,7 +41,9 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <h3>PROGRAM:</h3>
-  ~~~
+
+
+~~~
 import random
 
 class HealthAgent:
@@ -87,6 +89,11 @@ if __name__ == "__main__":
     agent = HealthAgent(patient)
     agent.sensors = sensors
     agent.actuators = actuators
+<h3>OUTPUT:</h3>
+<img width="903" height="174" alt="image" src="https://github.com/user-attachments/assets/81845833-46ba-4224-a333-716a7d4f1de5" />
 
-    agent.monitor()
+<h3>RESULT:</h3>:
+    Hence, the solution for the given AI problem is found.
+
+nt.monitor()
 ~~~
